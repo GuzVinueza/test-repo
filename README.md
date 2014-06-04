@@ -1,4 +1,4 @@
 test-repo
 =========
 ## secondary heading
-### thertiary heading
+### tertiary heading
